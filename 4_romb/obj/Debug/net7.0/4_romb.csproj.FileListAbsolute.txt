@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\bin\Debug\net7.0\4_romb.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\bin\Debug\net7.0\4_romb.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\bin\Debug\net7.0\4_romb.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\bin\Debug\net7.0\4_romb.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\bin\Debug\net7.0\4_romb.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\4_romb.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\4_romb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\4_romb.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\4_romb.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\4_romb.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\4_romb.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\refint\4_romb.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\4_romb.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\4_romb.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\4_romb\obj\Debug\net7.0\ref\4_romb.dll

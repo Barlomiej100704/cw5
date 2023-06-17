@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\bin\Debug\net7.0\5_ambitne.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\bin\Debug\net7.0\5_ambitne.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\bin\Debug\net7.0\5_ambitne.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\bin\Debug\net7.0\5_ambitne.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\bin\Debug\net7.0\5_ambitne.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\5_ambitne.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\5_ambitne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\5_ambitne.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\5_ambitne.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\5_ambitne.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\5_ambitne.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\refint\5_ambitne.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\5_ambitne.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\5_ambitne.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\5_ambitne\obj\Debug\net7.0\ref\5_ambitne.dll

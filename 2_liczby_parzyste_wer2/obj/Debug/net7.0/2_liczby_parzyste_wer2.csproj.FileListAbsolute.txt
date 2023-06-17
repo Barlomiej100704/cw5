@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\bin\Debug\net7.0\2_liczby_parzyste_wer2.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\bin\Debug\net7.0\2_liczby_parzyste_wer2.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\bin\Debug\net7.0\2_liczby_parzyste_wer2.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\bin\Debug\net7.0\2_liczby_parzyste_wer2.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\bin\Debug\net7.0\2_liczby_parzyste_wer2.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\2_liczby_parzyste_wer2.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\2_liczby_parzyste_wer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\2_liczby_parzyste_wer2.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\2_liczby_parzyste_wer2.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\2_liczby_parzyste_wer2.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\2_liczby_parzyste_wer2.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\refint\2_liczby_parzyste_wer2.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\2_liczby_parzyste_wer2.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\2_liczby_parzyste_wer2.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\2_liczby_parzyste_wer2\obj\Debug\net7.0\ref\2_liczby_parzyste_wer2.dll

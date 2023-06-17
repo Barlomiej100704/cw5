@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\bin\Debug\net7.0\3_trojkat.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\bin\Debug\net7.0\3_trojkat.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\bin\Debug\net7.0\3_trojkat.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\bin\Debug\net7.0\3_trojkat.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\bin\Debug\net7.0\3_trojkat.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\3_trojkat.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\3_trojkat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\3_trojkat.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\3_trojkat.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\3_trojkat.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\3_trojkat.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\refint\3_trojkat.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\3_trojkat.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\3_trojkat.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\3_trojkat\obj\Debug\net7.0\ref\3_trojkat.dll

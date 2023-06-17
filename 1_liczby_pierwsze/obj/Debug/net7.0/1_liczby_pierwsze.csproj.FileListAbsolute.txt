@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\bin\Debug\net7.0\1_liczby_pierwsze.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\bin\Debug\net7.0\1_liczby_pierwsze.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\bin\Debug\net7.0\1_liczby_pierwsze.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\bin\Debug\net7.0\1_liczby_pierwsze.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\bin\Debug\net7.0\1_liczby_pierwsze.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\1_liczby_pierwsze.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\1_liczby_pierwsze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\1_liczby_pierwsze.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\1_liczby_pierwsze.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\1_liczby_pierwsze.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\1_liczby_pierwsze.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\refint\1_liczby_pierwsze.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\1_liczby_pierwsze.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\1_liczby_pierwsze.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw5\cw5\obj\Debug\net7.0\ref\1_liczby_pierwsze.dll
